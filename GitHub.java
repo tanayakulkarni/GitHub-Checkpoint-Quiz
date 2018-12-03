@@ -1,4 +1,4 @@
-//Kulkarni
+//Tanaya Kulkarni
 public class GitHub{
 
 private String variable;
